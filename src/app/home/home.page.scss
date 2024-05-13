@@ -1,0 +1,35 @@
+ion-content {
+  --background: linear-gradient (323deg, #32e280, #008080);
+}
+
+ion-header {
+  --background: none;
+}
+
+.logoNike {
+  margin-top: 25px;
+  margin-left: 13px;
+}
+
+.imageShoe {
+  margin-top: 150px;
+  margin-bottom: -45px;
+}
+
+.year {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  color: #fff;
+}
+
+.btnAccess {
+  margin-top: 10px;
+  margin-top: 40px;
+  --background: none;
+  text-align: center;
+}
+
+.btnAccess ion-button {
+  --background: #f2c94c;
+  --color: #fff !important;
+}
